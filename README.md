@@ -1,3 +1,11 @@
+## 📸 Screenshots
+<p align="center">
+  <img src="assets/images/app1.png" width="250"/>
+  <img src="assets/images/app2.png" width="250"/>
+  <img src="assets/images/app3.png" width="250"/>
+</p>
+# Deluxe-Weather
+
 # ⭐ Open-Meteo Weather — Deluxe UI (Flutter + Provider + HTTP + Charts)
 
 แอปตัวอย่าง **สวยจัดเต็ม** ดึงข้อมูลพยากรณ์อากาศจาก **Open-Meteo** รองรับค้นหา/เลือกจังหวัดไทย, การ์ดแบบ Glass, กราฟอุณหภูมิ, และโครงสร้างโค้ดที่แยกชั้นชัดเจน
@@ -230,11 +238,3 @@ Row(
 - ใช้ `CardThemeData` แทน `CardTheme` ใน `ThemeData.cardTheme` สำหรับ Flutter 3.22+
 - หาก build iOS เจอปัญหา cache ให้ลอง `flutter clean && flutter pub get`
 
-
-## 📸 Screenshots
-<p align="center">
-  <img src="assets/images/app1.png" width="250"/>
-  <img src="assets/images/app2.png" width="250"/>
-  <img src="assets/images/app3.png" width="250"/>
-</p>
-# Deluxe-Weather
