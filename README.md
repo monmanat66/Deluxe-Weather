@@ -232,7 +232,9 @@ Row(
 
 
 ## 📸 Screenshots
-![หน้าหลัก](assets/images/app1.png)
-![เลือกจังหวัด](assets/images/app2.png)
-![7วัน, รายชั่วโมง (48 ชม.)](assets/images/app3.png)
+<p align="center">
+  <img src="assets/images/app1.png" width="250"/>
+  <img src="assets/images/app2.png" width="250"/>
+  <img src="assets/images/app3.png" width="250"/>
+</p>
 # Deluxe-Weather
